@@ -1,0 +1,11 @@
+.outer-container{ 
+    display: flex;
+    background-color: palegreen;
+}
+
+.item{
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    width: 30px;
+}
